@@ -1,0 +1,45 @@
+/* Element selectors */
+
+body {	
+}
+html {	
+}
+/* Class selectors */
+
+.contact_info {
+    float: left;
+    width: 215px;
+    padding-left:10px;
+}
+
+.header_indent {
+    padding-left: 4.5%;
+}
+.header1_indent {
+    padding-left: 9%;
+}
+.header2_indent {
+    padding-left: 13.5%;
+}
+.underline {
+    text-decoration: underline;
+}
+
+/* ID selectors */
+#wrapper{
+    border: 1px solid #00ff00;
+    display: table;
+    position: relative;
+}
+
+
+/* @Media queries */
+
+/* styles for screens above 400px tall */
+@media  screen and (min-device-height: 20em ) and (min-device-width: 750px ) {
+    #wrapper {
+        margin:5px auto;
+        top: 15vh;
+        width: 750px;
+    }
+}

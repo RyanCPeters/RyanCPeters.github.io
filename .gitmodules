@@ -1,3 +1,7 @@
 [submodule "BizCard"]
 	path = BizCard
 	url = https://github.com/RyanCPeters/BizCard.git
+
+[submodule "301-Assignment4"]
+	path = 301-Assignment4
+	url = https://github.com/RyanCPeters/301-Assignment4.git

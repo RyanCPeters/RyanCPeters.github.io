@@ -1,3 +1,3 @@
 [submodule "BizCard"]
 	path = BizCard
-	url = git@github.com:RyanCPeters/My_Basic_Business_Card.git
+	url = https://github.com/RyanCPeters/My_Basic_Business_Card.git

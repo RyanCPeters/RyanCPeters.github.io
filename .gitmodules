@@ -1,0 +1,3 @@
+[submodule "BizCard"]
+	path = BizCard
+	url = https://github.com/RyanCPeters/BizCard.git

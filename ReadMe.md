@@ -1,4 +1,5 @@
-# ![Site Under Construction](./resources/images/frustration.jpg)
+# Site Under Construction
+# ![frustrated much?](./resources/images/frustration.jpg)
 ## Visit the page<a href="https://RyanCPeters.github.io/docs" target="_new"> here</a>
 
 ###### This is a handy reference for remembering the syntax used in .md files
